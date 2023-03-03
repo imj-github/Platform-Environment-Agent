@@ -37,15 +37,15 @@ pip install -e 'gym-platform/[gym-platform]'
 ```
 3. Clone this repository (or download it) using the following command
 ```
-git clone https://github.com/imj-github/Platform-domain-agent.git
+git clone https://github.com/imj-github/Platform-Environment-Agent.git
 ```
-4. Finally run the `main.py` file for training and evaluating the agent. In this case, you can `cd` into the `Platform-domain-agent` directory and run `main.py` as follows:
+4. Finally run the `main.py` file for training and evaluating the agent. In this case, you can `cd` into the `Platform-Environment-Agent` directory and run `main.py` as follows:
 ```
 python main.py
 ```
 Otherwise, you can run the file by writing its full path (for example)
 ```
-python ./Platform-domain-agent/main.py
+python ./Platform-Environment-Agent/main.py
 ```
 Note that a colab notebook file that shows how these steps were run in order is included in the repository. 
 
